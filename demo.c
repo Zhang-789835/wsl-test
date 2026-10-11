@@ -2,6 +2,6 @@
 int main(void)
 {
 	printf("WSL+GitHob SSH test OK!\n");
-	printf("Hello World!");
+	printf("Hello WSL!");
 	return 0;
 }
